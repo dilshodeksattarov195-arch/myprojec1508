@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smscetch",
+        "uuid": 2435420,
+        "checksum": "42ep0s"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
